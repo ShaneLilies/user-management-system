@@ -1,5 +1,5 @@
 # user-management-system
 
-# Frontend - Recamel Flores and Jovan Gocela
 # Backend - Jamaica Lapad
+# Frontend - Recamel Flores and Jovan Gocela
 # Tester - Felix Ragas Jr.
